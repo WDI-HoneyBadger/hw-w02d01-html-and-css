@@ -1,0 +1,104 @@
+body{
+    background-color: #f5f4f3;
+}
+h1{
+    font-size: 55px;
+    font-family: capital 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+h2{
+    font-family: serif,sans-serif;
+    color: black;
+    font-style: bold;
+    text-align: center;
+    margin-top: 100px;
+}
+
+h3 {
+    font-family: serif,sans-serif;
+    color: black;
+    text-align: center;
+    width: 60%;
+    margin: 0 auto;
+}
+
+head{
+     
+}
+
+p{
+    font-family: serif,sans-serif;
+    text-align: left;
+    font-size: 20px;
+}
+
+.hr{
+    
+    border-color: black;
+    border: 3px solid black;
+    background: black;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    width: 90%;
+}
+
+.box{
+    border: 1px 0 black;
+    margin: 0 auto;
+    border-width: 1px;
+    width: 70%;
+}
+
+.column {
+    float: left;
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 20px;
+
+}
+
+.textColumn {
+    float: right;
+    text-align: left;
+}
+
+/* Clear floats after the columns */
+.row:after {
+    content: "";
+    display: grid;
+    clear: both;
+    text-align: center;
+}
+img{
+    width: 40%;
+    border: 2px solid black;
+}
+
+.container {
+    margin: 100px;    
+}
+
+.container a {
+    color: black;
+}
+
+.socials {
+    text-align: center;
+}
+
+.main h2 {
+    text-align: left;
+}
+
+.main {
+    width: 70%;
+    margin: 0 auto;
+}
+
+.main img{
+    text-align: center;
+    margin-left: 25%;
+    margin-bottom: 50px;
+}
