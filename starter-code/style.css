@@ -1,0 +1,84 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    height: 100vh;
+}
+.thick-line {
+    border: none;
+    height: 5px;
+    color: black;
+    background-color: black;
+    margin: 50px 20px;
+}
+.thin-line {
+    border: none;
+    height: 2px;
+    color: gray;
+    background-color: gray;
+    margin: 40px 60px;
+}
+.nav {
+    font-size: 20px;
+    margin-bottom: 0;
+}
+.nav a{
+    text-decoration: none;
+}
+.nav a:hover{
+    text-decoration: underline;
+    font-style: italic;
+}
+h1{
+    font-size: 50px;
+    margin-top: 0;
+    text-transform: uppercase;
+    font-weight: bolder;
+}
+#info {
+    margin: 40px 60px;
+    overflow: hidden;
+}
+#info p {
+    line-height: 1.7em;
+    font-weight: bold;
+}
+.left {
+    width: 60%;
+    height: auto;
+    float: left;
+}
+.right {
+    height: auto;
+    float: right;
+    text-align: right;
+}
+.centered-div {
+    text-align: center;
+}
+.link {
+    font-weight: bold;
+    color: black;
+}
+a:hover{
+    color: rgb(173, 21, 21);
+}
+.containar {
+    margin: 40px 60px;
+}
+.containar p {
+    line-height: 1.7em;
+    text-align: justify;
+}
+.bold-italic {
+    font-weight: bold;
+    font-style: italic;
+}
+li p {
+    margin: 0 auto;
+}
+li img {
+    width: 100%;
+    height: auto;
+    padding: 5px;
+    margin: 30px;
+    border: 2px solid black;
+}
