@@ -1,0 +1,32 @@
+
+p {
+    color: 
+    text-align: center;
+
+}
+
+.flo {
+        list-style-type: none;
+        display: block;
+        overflow: hidden;
+        background-color: #333333;
+        text-align: center;
+        color: white;
+        text-decoration: none;
+
+        
+}
+h1 {
+    color: black;
+    text-align: center;
+    tab-size: initial;
+    font-size: 150%;
+    font-style: oblique;
+    line-break: normal;
+    border-bottom: #333333
+}
+.fot {
+    color: #333333;
+    padding: initial;
+    margin: 42;
+}
