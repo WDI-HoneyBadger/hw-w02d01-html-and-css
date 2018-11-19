@@ -1,0 +1,52 @@
+body{
+    background-color:white;
+    text-align: center;
+    margin:0px;
+    padding:0px;
+}
+
+ul{
+    list-style: none;
+    display: inline;
+}
+li{
+    display: inline;
+}
+div{
+margin: 50px;
+
+}
+
+
+.detailes{
+    display: inline;
+    padding:0px;
+    margin: 0px;
+}
+div > h3 {
+    text-align: left;
+}
+div >p {
+    text-align: left ;
+}
+.imBor{
+    border: 5px solid black;
+    height: 225px;
+    width: 225px;
+    margin-left: 700px;
+    position: top;
+    margin-top: -100px;
+    padding:5px;
+   
+
+}
+.bor{
+    border: 5px solid black;
+    height: 400px;
+    width: 400px;
+    margin :auto;
+   
+}
+a:hover{
+    text-decoration: black;
+}
