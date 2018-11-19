@@ -1,0 +1,79 @@
+body{
+
+    max-width: 500px;
+    margin: auto;
+    margin-top: 60px;
+
+    align-content: center;
+}
+
+#aboutMe{
+    align-content: center;
+}
+
+.hr1 {
+    width: 550px; /* Length */
+    height: 3px;  /* Thickness */
+    background-color: black; /* Colour */
+    
+    }
+    
+.imgtext{
+
+    width: 400px;
+
+
+}
+
+#container{
+
+    margin: 0;
+    
+
+}
+
+
+
+ .info{
+
+    margin-top: 54px; 
+} 
+
+.float1{
+
+    float: left;
+
+}
+
+.avatar{
+
+   
+    display: block;
+    height: 200px;
+    width: 200px;
+   margin-left: 400px;
+   padding-bottom: 50px;
+   float: left;
+   
+   
+
+}
+
+.pleft{
+
+    margin-right: 25px;
+}
+
+.img1{
+
+    margin-right: 100px;
+    margin-bottom: 50px;
+
+
+
+}
+
+.below{
+
+   padding-left: 95px;  
+}
