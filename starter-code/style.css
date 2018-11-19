@@ -1,0 +1,97 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+header{
+    margin: 40px auto;
+}
+nav{
+    align-content: center;
+    text-align: center;
+    margin-bottom: 0;
+}
+nav a{
+    color: black;
+    text-decoration: underline;
+    font-size: 20px;
+    
+}
+nav a:hover{
+    font-style: italic;
+    text-decoration: none;
+}
+h1{
+    font-size: 50px;
+    font-weight: 800;
+    text-transform: uppercase;
+    text-align: center;
+    margin-top: 0;
+    letter-spacing: 2px;
+}
+h3{
+    letter-spacing: 3px;
+}
+p{
+    line-height: 30px;
+    font-size: 16px;
+}
+
+.thickLine{
+    border: 3px solid black;
+    margin: 20px 20px;
+}
+.thinLine{
+    border: 1px solid darkgray;
+    margin: 20px 60px;
+}
+.aboutBox{
+    margin: 20px 60px;
+    overflow: hidden;
+}
+.aboutLeft{
+    width: 60%;
+    float: left;
+   
+}
+
+.aboutRight{
+    height: auto;
+    float: right;
+   
+}
+.aboutRight img{
+    border: 1px solid black;
+    width: 200px;
+    height: 210px;
+}
+
+.txtTitle{
+    font-style: italic;
+    font-weight: bold;
+}
+ul li{
+    margin: 0 auto;
+    line-height: 20px;
+
+}
+li p{
+    margin-top: 0;
+    line-height: 10px;
+}
+ul img{
+    margin: 10px;
+    border: 1px solid black;
+    padding: 5px;
+}
+
+footer{
+    align-content: center;
+    text-align: center;
+    
+}
+footer a{
+    text-decoration: underline;
+    color: black;
+    font-size: 18px;
+    font-weight: bold;
+}
