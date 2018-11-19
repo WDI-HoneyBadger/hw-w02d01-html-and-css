@@ -1,0 +1,91 @@
+body {
+    text-align: center;
+    font-family: 'Quicksand';
+}
+
+#mainPage {
+    border-top: 3px solid gray;
+    border-bottom: 3px solid gray;
+    padding: 20px;
+    margin: 20px;
+}
+
+#infoSection {
+    border-top: 1px solid gray;
+    border-bottom: 1px solid gray;
+    width: 90%;
+    margin: 10px auto;
+}
+.inline {
+    width: 50%;
+    float: left;
+    margin: 30px 30px 30px 0;
+    text-align: left;
+}
+
+.inline-block{
+    display: inline-block;
+    width: 40%;
+}
+
+.footer{
+    display: block; 
+    text-align: center;
+    margin: 20px auto;
+    width: 600px;
+}
+
+.portfolio {
+    margin-top: 50px;
+}
+
+li {
+    list-style: square;
+}
+
+.small {
+    font-size: 13px;
+}
+
+h3 {
+    margin: 0;
+}
+
+h2, h3, p {
+    text-align: left;
+}
+
+a {
+    color: black;
+}
+
+/* a:visited {
+    font-style: italic; 
+} */
+
+a:hover 
+{
+     color:rebeccapurple; 
+     text-decoration:none; 
+}
+
+h1 {
+    text-transform: uppercase;
+}
+
+img {
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid gray;
+    width: 450px;
+    height: 300px;
+}
+
+.personalImage {
+    margin: 10px 0 10px 50px;
+    padding: 10px;
+    border: 1px solid gray;
+    width: 150px;
+    height: 150px;
+    background-color: lightgray;
+}
