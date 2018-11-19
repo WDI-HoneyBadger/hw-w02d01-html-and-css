@@ -1,0 +1,58 @@
+h4 {
+    text-align: center;
+    margin: auto;
+    width: 40%;
+    padding: 10px; 
+}
+
+
+body {
+    background-color: whitesmoke;
+}
+
+
+h1{
+    text-align: center;
+    margin: auto;
+    width: 35%;
+    padding: 10px;
+}
+
+h2{
+    margin: auto;
+    width: 35%;
+    padding: 10px;
+}
+
+
+
+.image {
+    text-align: center;
+    right: 0px;
+    padding: 10px 10px 20px;
+    max-width: 100%;
+    height: auto; 
+    
+}
+
+
+h3 {
+    margin: auto;
+    width: 35%;
+    padding: 10px;
+}
+
+p{
+    text-align: center;
+    margin: auto;
+    width: 35%;
+    padding: 10px;
+
+}
+
+ul {
+    text-align: center;
+    margin: auto;
+    width: 35%;
+    padding: 10px;
+}
