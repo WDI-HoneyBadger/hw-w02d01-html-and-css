@@ -79,9 +79,11 @@ li p{
     line-height: 10px;
 }
 ul img{
-    margin: 10px;
+    margin: 10px auto;
     border: 1px solid black;
     padding: 5px;
+    display: block;
+    width: 50%;
 }
 
 footer{
