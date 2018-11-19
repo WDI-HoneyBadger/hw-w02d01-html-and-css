@@ -1,0 +1,39 @@
+body{
+    background-color: lightblue;
+    width: 720px;
+    padding: 54px;
+}
+
+p{
+    padding-left: 0px;
+    padding-right: 0px;
+    margin-left: 89px;
+    margin-top: -143px;
+    margin-bottom: -59;
+     
+}
+
+h1{
+    margin-top: 107px;
+    text-align: center;
+    height: 132px;
+    
+}
+h4{
+    text-align: center;
+    margin-top: 0px;
+    margin-inline-start: 78px;
+    margin-block-end: -84px;
+    margin-inline-end: 41px;
+    padding-top: 59px;
+}
+h3{
+    padding-left: 97px;
+    margin-bottom: -16px;
+    height: 0px;
+    padding-top: 13px;
+}
+
+hr{
+
+}
