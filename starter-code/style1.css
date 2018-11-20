@@ -1,0 +1,107 @@
+/* Homework w02d01 style.css */
+body{
+    font-family : Arial, sans-serif;
+ }
+ .main{
+    font-weight: bold;
+}
+header{
+    margin: 40px auto;
+}
+.Line{
+    border: 3px solid black;
+    margin: 10px 10px;
+}
+.Line2{
+    border: 0.5px solid black;
+    margin: 10px 40px;
+    
+}
+nav{
+    align-content: center;
+    text-align: center;
+    margin-bottom: 0;
+}
+nav a{
+    color: black;
+    text-decoration: underline;
+    font-size: 20px;
+    
+}
+nav a:hover{
+    text-decoration: underline;
+} 
+.about{
+    font-style: italic;
+    text-decoration: none;
+
+}
+
+.port{
+    text-decoration: none;
+}
+h1{
+    font-size: 50px;
+    font-weight: 800;
+    text-transform: uppercase;
+    text-align: center;
+    letter-spacing: 2px;
+}
+h3{
+    letter-spacing: 3px;
+}
+p{
+    line-height: 30px;
+    font-size: 16px;
+}
+.Line2{
+    border: 1px solid darkgray;
+    margin: 20px 60px;
+    
+}
+.about{
+    margin: 20px 60px;
+    overflow: hidden;
+}
+.aboutLeft{
+    width: 50%;
+    float: left;
+   
+}
+ .aboutRight{
+    height: auto;
+    float: right;
+   
+}
+.aboutRight img{
+    border: 1px solid black;
+    width: 200px;
+    height: 210px;
+}
+ .Title{
+    font-style: italic;
+    font-weight: bold;
+}
+
+img{
+    margin: 10px;
+    border: 2px solid black;
+    padding: 5px;
+    
+    
+}
+ footer{
+    align-content: center;
+    text-align: center;
+    
+}
+footer a{
+    text-decoration: underline;
+    color: black;
+    font-size: 18px;
+    font-weight: bold;
+} 
+#about {
+    font-weight: bold;
+    font-style: italic;
+}
