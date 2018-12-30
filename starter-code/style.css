@@ -1,0 +1,84 @@
+body {
+    background-color: rgb(247, 246, 244);
+}
+
+#line1 {
+    height: 5px;
+    width: 100%;
+    background-color: black;
+    margin: 10px 90px;
+
+}
+
+#line2 {
+    height: 3px;
+    width: 100%;
+    background-color: black;
+    margin: 10px 90px;
+
+}
+
+.line3 {
+    height: 3px;
+    width: 100%;
+    background-color: black;
+    margin: 10px 90px;
+}
+
+.line4  {
+    height: 1px;
+    width: 100%;
+    background-color: black;
+    margin: 10px 90px;
+
+}
+
+.main {
+    text-align: center;
+}
+
+
+.skiles{
+    margin: 50px 80px;
+    overflow: hidden;
+    
+}
+
+#content {
+    width: 80%;
+    float: left;
+    height: auto;
+}
+
+
+.image {
+    height: auto;
+    float: right;
+    text-align: right;
+    border-style: solid;
+
+}
+
+.nav {
+    text-align: center;
+}
+
+.Portfolio {
+    color: black;
+}
+
+a {
+    color: rgb(70, 5, 5);
+}
+
+.dmung {
+    padding:  50px;
+}
+
+.img2 {
+    border-style: solid;
+    padding: 2px;
+}
+.decriptionDev {
+    padding-bottom: 20px;
+}
